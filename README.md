@@ -15,6 +15,7 @@ Status line configuration for [Claude Code](https://docs.anthropic.com/en/docs/c
 | `cerebro` | Relative path from project root (basename when at root, `...`-prefixed when in a subdirectory) |
 | `main ✗` | Current git branch, with ✗ if there are uncommitted changes |
 | `12% ✓` | Context window usage — ✓ plenty of room, → filling up, ◇ getting tight, ✕ nearly full |
+| `⏵⏵ bypass permissions on` | Current permission mode (shown by Claude Code, not part of this config) |
 | `PR #9201` | Active pull request for the current branch (shown by Claude Code, not part of this config) |
 
 ## Setup
