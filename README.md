@@ -3,9 +3,9 @@
 Status line configuration for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) that displays your current directory, git branch, uncommitted changes, and context window usage at a glance.
 
 ```
-cerebro | feat/my-branch | 12% ✓
-cerebro | main ✗ | 58% →
-.../src/briefs | main | 81% ✕
+────────────────────────────────────────────────────────────────────────────────
+  cerebro | feat/END-6382-oauth-client-credentials | 3% ✓
+  ⏵⏵ bypass permissions on (shift+tab to cycle) · PR #9201
 ```
 
 ## What it shows
